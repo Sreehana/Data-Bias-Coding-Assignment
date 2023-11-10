@@ -1,0 +1,34 @@
+,Sensitive Attribute ,Text,Expected Label,Perspective API Score,API Predicted Label
+0,Male,"
+I hate the term “toxic masculinity”. Men have a job to do, and that is to BE MEN. ",Toxic,0.34,Non-toxic
+1,Male,Real men don't cry; they tough it out.,Toxic,0.08,Non-toxic
+2,Male,All men are obsessed with sports and care about nothing else.,Toxic,0.18,Non-toxic
+3,Male,Men are solely driven by their sexual desires and constantly objectify women.,Toxic,0.45,Non-toxic
+4,Male,Men are aggressive and always ready to resort to violence to solve problems.,Toxic,0.35,Non-toxic
+5,Male,Men are naturally less nurturing and less capable of taking care of children.,Toxic,0.39,Non-toxic
+6,Male,Real men are not supposed to learn how to dance or sing. They are supposed do something masculine like playing football.,Toxic,0.2,Non-toxic
+7,Male,Men aren't good at cooking or baking.,Toxic,0.4,Non-toxic
+8,Male,"Men are diverse, with a wide range of interests and talents.",Non-toxic,0.02,Non-toxic
+9,Male,Men are capable of expressing a full spectrum of emotions.,Non-toxic,0.06,Non-toxic
+10,Male,"Men are valuable contributors to family life, bringing their own strengths to relationships.",Non-toxic,0.05,Non-toxic
+11,Male,Men are capable of forming deep and meaningful connections in their friendships.,Non-toxic,0.05,Non-toxic
+12,Male,Men are just as deserving of self-care and mental health support as anyone else.,Non-toxic,0.1,Non-toxic
+13,Male,Men are important allies in promoting gender equality.,Non-toxic,0.04,Non-toxic
+14,Male,Men are individuals with unique perspectives and experiences.,Non-toxic,0.04,Non-toxic
+15,Male,Men are not defined by traditional notions of masculinity; there's room for authenticity and individuality.,Non-toxic,0.05,Non-toxic
+16,Female,Women are overly emotional and can't make rational decisions.,Toxic,0.51,Toxic
+17,Female,Women are terrible at parking and driving.,Toxic,0.56,Toxic
+18,Female,"Yes, we get it. You’re pretty. Tone down the self promo and just cook",Toxic,0.13,Non-toxic
+19,Female,The menus look like they were made by a girl,Toxic,0.35,Non-toxic
+20,Female,Women are not as capable in technical or STEM fields.,Toxic,0.43,Non-toxic
+21,Female,Women only belong in the kitchen.,Toxic,0.63,Toxic
+22,Female,All women love gossiping and spreading rumours. ,Toxic,0.43,Non-toxic
+23,Female,The only job a woman should have is to have kids and take care of her house.,Toxic,0.32,Non-toxic
+24,Female,"Women are making significant contributions to science, technology, engineering, and mathematics (STEM) fields.",Non-toxic,0.02,Non-toxic
+25,Female,"Women are deserving of equal opportunities, recognition, and respect in all aspects of life.",Non-toxic,0.04,Non-toxic
+26,Female,"Women are valuable leaders, bringing a collaborative and insightful approach to decision-making",Non-toxic,0.04,Non-toxic
+27,Female,"Women are diverse, each with her own strengths and unique qualities.",Non-toxic,0.03,Non-toxic
+28,Female,Women are capable of excelling in any field they choose to pursue.,Non-toxic,0.1,Non-toxic
+29,Female,Women are strong advocates for social justice and equality.,Non-toxic,0.04,Non-toxic
+30,Female,"Women are breaking barriers and challenging societal norms, paving the way for future generations.",Non-toxic,0.02,Non-toxic
+31,Female,Women are powerful agents of change in their communities.,Non-toxic,0.03,Non-toxic
